@@ -80,7 +80,8 @@
 		"classnames": "^2.5.1",
 		"clsx": "^2.1.0",
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react-dom": "^18.2.0",
+		"yarn": "^1.22.22"
 	},
 	"lint-staged": {
 		"*.{css,scss}": "yarn stylelint:fix",
@@ -92,5 +93,7 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
-	"homepage": "./"
+	"homepage": "./",
+	"repository": "git@github.com:AplusO1/blog-customizer.git",
+	"author": "Alexander Yudin <Yudin.A.O@yandex.ru>"
 }

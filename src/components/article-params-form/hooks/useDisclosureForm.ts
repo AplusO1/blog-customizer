@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 import { OnClick } from 'src/components/arrow-button/ArrowButton';
 import arrowButtonStyles from '../../arrow-button/ArrowButton.module.scss';
 
